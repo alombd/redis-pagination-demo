@@ -14,10 +14,11 @@ use App\Http\Controllers\PersonController;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
-Route::resource('persons', PersonController::class);
+Route::resource('/', PersonController::class);
+// Route::get('/', 'PersonController@index');
 
 
