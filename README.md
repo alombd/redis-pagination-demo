@@ -9,9 +9,9 @@
 
 Run project in http://localhost:8000/<br>
 
-# Postgre Setup: (https://www.postgresql.org/download/macosx/).
+Postgre Setup: (https://www.postgresql.org/download/macosx/).
 
-# Redis Setup: URL: (https://laravel.com/docs/9.x/redis).
+Redis Setup: URL: (https://laravel.com/docs/9.x/redis).
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
